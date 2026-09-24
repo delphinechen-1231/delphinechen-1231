@@ -1,16 +1,16 @@
-## Hi there 👋
+# 嗨，我是陳宣霓🍀
 
-<!--
-**delphinechen-1231/delphinechen-1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是中原大學的學生，目前正在學習計算機概論與程式設計。
 
-Here are some ideas to get you started:
+## 關於我
+- 系級:智運一甲
+- 正在學習:Python、Github
+- 感興趣的主題:看電影、聽音樂、溜蛇版
+- 這學期的目標:更了解如何使用Python和Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我的作品
+目前正在學習中，之後會把課堂作品放在Github。
+
+## 聯絡方式
+可以透過Github與我交流喔!
+[中原智運](https://icbd.cycu.edu.tw/)
